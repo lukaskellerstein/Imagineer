@@ -1,0 +1,5 @@
+Imagineer is an on-demand custom 3D printing service that lets anyone create a physical object from a text description or a reference image — no modeling skills required. Customers describe what they want or upload a photo, our platform generates a 3D model using AI, and they preview and approve it in the browser before we print and ship the finished piece. We handle the entire pipeline end-to-end: AI generation, print-readiness checks, material and color selection, fulfillment, and delivery. The target audience is hobbyists, gift-buyers, tabletop gamers, designers prototyping ideas, and anyone who has imagined a physical object but lacks the skills, software, or hardware to make it real. 
+
+I want to use a locally running model Hunyuan 3D 2.1 - here is the sample script that is showing to run it locally: /home/lukas/Projects/Temp/img23d/main.py
+
+3D print we can use some external servise you find in czech republic online. 
